@@ -32,3 +32,7 @@ The notebook uses the Kaggle dataset *Air Quality Data in India (2015–2020)* (
 ## Author
 
 **Teja Manjusree Koduru** · M.Sc. Big Data & Business Analytics, FOM Essen · [LinkedIn](https://www.linkedin.com/in/teja-manjusree-25856b138)
+
+---
+
+**Teja Manjusree Koduru** · Data Analyst · [Portfolio](https://manjusree-prog.github.io) · [LinkedIn](https://www.linkedin.com/in/teja-manjusree-25856b138) · Featured project: [E-commerce delivery analytics dashboard](https://manjusree-prog.github.io/olist-delivery-analytics/)
